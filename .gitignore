@@ -51,6 +51,7 @@ build/
 *.pidb
 *.log
 *.scc
+appsettings-to-replace-secrets.json
 
 # Visual C++ cache files
 ipch/
